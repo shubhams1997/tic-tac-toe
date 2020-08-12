@@ -18,11 +18,11 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ### `Screenshots`
 
-![Main Screen]("images/main.png”)
+![Main Screen](/images/main.png)
 
-![Win Screen]("images/win.png”)
+![Win Screen](/images/win.png)
 
-![Draw Screen]("images/draw.png”)
+![Draw Screen](/images/draw.png)
 
 ### Deployment
 
